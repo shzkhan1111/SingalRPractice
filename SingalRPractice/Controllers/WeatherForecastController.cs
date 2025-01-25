@@ -29,5 +29,6 @@ namespace SingalRPractice.Controllers
             })
             .ToArray();
         }
+
     }
 }
